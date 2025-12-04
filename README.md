@@ -1,4 +1,5 @@
-![GitHub Streak](https://streak-stats.demolab.com/?user=Dabbiks)
+[![GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=Dabbiks&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR)](https://github.com/tommyettinger/)
+![GitHub Streak](https://github-readme-streak-stats-ten-ruddy.vercel.app?user=Dabbiks&hide_border=true)
 <!--
 **Dabbiks/Dabbiks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
