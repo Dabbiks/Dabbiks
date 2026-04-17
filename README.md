@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dabbiks&theme=radical&hide_border=true&short_numbers=true&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dabbiks&theme=radical&hide_border=true&short_numbers=true&card_width=900&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
 <!--
 **Dabbiks/Dabbiks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
