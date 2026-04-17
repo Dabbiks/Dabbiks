@@ -1,6 +1,4 @@
-![GitHub Streak](https://github-readme-streak-stats-ten-ruddy.vercel.app?user=Dabbiks&hide_border=true)
-
-![Profile views counter](https://komarev.com/ghpvc/?username=Dabbiks&&style=flat-square)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dabbiks&theme=radical&hide_border=true&short_numbers=true&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
 <!--
 **Dabbiks/Dabbiks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
